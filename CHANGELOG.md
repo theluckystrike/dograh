@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.49.0 (2026-10-05)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Features
+* feat(qa): add Google Gemini as a QA LLM provider by @a6kme in https://github.com/dograh-hq/dograh/pull/848
+* feat: expose Deepgram TTS speed configuration by @a6kme in https://github.com/dograh-hq/dograh/pull/853
+* feat: expose model-aware LLM temperature settings by @a6kme in https://github.com/dograh-hq/dograh/pull/858
+### Bug Fixes
+* fix: return a clear 503 when the hosted service is unreachable for template workflows by @Rishxb-arch in https://github.com/dograh-hq/dograh/pull/851
+* fix: finish pending tools after hangup and unify transition deferral by @a6kme in https://github.com/dograh-hq/dograh/pull/857
+### Documentation
+* docs: note the quickstart's public tunnel and open signup by @Rishxb-arch in https://github.com/dograh-hq/dograh/pull/850
+
+## New Contributors
+* @Rishxb-arch made their first contribution in https://github.com/dograh-hq/dograh/pull/851
+
+**Full Changelog**: https://github.com/dograh-hq/dograh/compare/dograh-v1.48.0...dograh-v1.49.0
+
 ## 1.48.0 (2026-10-02)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
